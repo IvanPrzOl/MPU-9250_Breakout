@@ -18,3 +18,7 @@ License Information
 -------------------
 The hardware is released under [Creative Commons Share-alike 4.0](http://creativecommons.org/licenses/by-sa/4.0/).  
 The firmware is released under the [Beerware license](http://en.wikipedia.org/wiki/Beerware).
+
+Notes
+-------------------
+This library doesn´t calibrate the magnetometer, the user needs to specify the values in the ino file.
